@@ -23,9 +23,11 @@ $(document).ready(function(){
 		return false; 
 	});
 	
+	console.log("M");
 	/* ------------------ Progress Bar ------------------- */	
 	$(function() {
 		$(".meter > span").each(function() {
+		  console.log("Q");
 			$(this)
 			.data("origWidth", $(this).width())
 			.width(0)

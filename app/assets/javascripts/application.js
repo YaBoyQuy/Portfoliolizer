@@ -18,5 +18,4 @@
 //= require jquery.cslider
 //= require slider
 //= require jquery.gmap.min
-//= require custom
 //= require_tree .
