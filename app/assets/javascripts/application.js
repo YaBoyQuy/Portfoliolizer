@@ -12,4 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require bootstrap
+//= require flexslider
+//= require carousel
+//= require jquery.cslider
+//= require slider
+//= require jquery.gmap.min
+//= require custom
 //= require_tree .

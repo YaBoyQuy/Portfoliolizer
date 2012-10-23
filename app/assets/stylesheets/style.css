@@ -181,7 +181,7 @@ header {
 }
 
 #page-title {
-	background: url(../img/bg-grey2.png);
+	background: url("bg-grey2.png");
 	display: block;
 	margin-bottom: 25px;
 	position: relative;
@@ -290,14 +290,14 @@ html[xmlns] .slides {display: block;}
 }
 
 .flex-direction-nav .flex-next {
-	background-image: url(../img/slider-control-right.png);
+	background-image: url("slider-control-right.png");
 	background-repeat: no-repeat;
 	background-position: 52% 50%;
 }
 
 .flex-direction-nav .flex-prev {
 	margin-right: 36px;
-	background-image: url(../img/slider-control-left.png);
+	background-image: url("slider-control-left.png");
 	background-repeat: no-repeat;
 	background-position: 48% 50%;
 }
@@ -384,7 +384,7 @@ html[xmlns] .slides {display: block;}
 ====================================================================== */
 
 .hero-unit {
-	background: #fff url(../img/bg-k10.png);
+	background: #fff url("bg-k10.png");
 	border-left: 4px solid #89c236;
 	padding: 13px 13px 13px 15px;
 	font-style: italic;
@@ -463,12 +463,12 @@ html[xmlns] .slides {display: block;}
 }
 
 .ico-color {
-	background-image: url("../img/icons/green/glyphicons.png");
+	background-image: url("icons/green/glyphicons.png");
 	opacity: 1;
 }
 
 .mini-color {
-  background-image: url("../img/icons/green/glyphicons-mini.png");
+  background-image: url("icons/green/glyphicons-mini.png");
   opacity: 1;
 }
 
@@ -642,14 +642,14 @@ html[xmlns] .slides {display: block;}
 }
 
 .mr-rotato-next {
-	background: url(../img/testimonials-right-01.png) no-repeat 50%;
+	background: url("testimonials-right-01.png") no-repeat 50%;
 	background-color: #fff;
 	right: -1px;
 	z-index: 6;
 }
 
 .mr-rotato-prev {
-	background: url(../img/testimonials-left-01.png) no-repeat 50%;
+	background: url("testimonials-left-01.png") no-repeat 50%;
 	background-color: #fff;
 	right: 25px;
 	-webkit-box-shadow:  3px 0px 0px 0px #fff;
@@ -658,11 +658,11 @@ html[xmlns] .slides {display: block;}
 }
 
 .mr-rotato-next:hover {
-	background: url(../img/testimonials-right-02.png) no-repeat 50%;
+	background: url("testimonials-right-02.png") no-repeat 50%;
 }
 
 .mr-rotato-prev:hover {
-	background: url(../img/testimonials-left-02.png) no-repeat 50%;
+	background: url("testimonials-left-02.png") no-repeat 50%;
 }
 
 .mr-rotato-prev:hover,
@@ -1058,7 +1058,7 @@ a.buy:hover {
 ====================================================================== */
 #footer-menu {
 	height: 50px;
-	background: #fcfcfc url(../img/bg-k20.png) repeat;
+	background: #fcfcfc url("bg-k20.png") repeat;
 	border-top: 4px solid #f6f6f6;
 	border-bottom: 4px solid #f6f6f6;
 	margin-top: 20px;
@@ -1140,7 +1140,7 @@ a.buy:hover {
 	height: 30px;
 	display: block;
 	background-color: #89c236;
-	background-image: url(../img/scroll-top-top.png);
+	background-image: url("scroll-top-top.png");
 	background-repeat: no-repeat;
 	background-position: 50%;
 	-webkit-transition: all 0.1s ease-in-out;
@@ -1153,7 +1153,7 @@ a.buy:hover {
 #footer-menu-back-to-top a:hover {background-color: #aaa;}
 
 #footer {
-	background: url(../img/bg-k10.png) repeat;
+	background: url("bg-k10.png") repeat;
 	border-bottom: 4px solid #f6f6f6;
 	color: #666 !important;
 	padding: 40px 0px;

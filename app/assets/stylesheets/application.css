@@ -9,5 +9,13 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
+ *= require bootstrap
+ *= require bootstrap-responsive
+ *= require hover
+ *= require icons-color
+ *= require icons
+ *= require parallax-slider
+ *= require social-icons
+ *= require style
  *= require_tree .
  */
