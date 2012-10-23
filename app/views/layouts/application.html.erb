@@ -74,7 +74,7 @@
                           <li class="<%='active' if controller?('welcome') && action?('started')%>"><%= link_to "Getting Started", "" %></li>
                           <li class="<%='active' if controller?('welcome') && action?('folios')%>"><%= link_to "Folios", "" %></li>
                           <li class="<%='active' if controller?('welcome') && action?('about')%>"><%= link_to "About", about_welcome_index_path %></li>
-                          <li><a href="about.html">Login</a></li>
+                          <li class="<%='active' if controller?('welcome') && action?('login')%>"><%= link_to "Login", "" %></li>
                       </ul>
                     </div>
                 </div>
